@@ -16,6 +16,9 @@
 - 股票数据定向爬虫
 - scrapy框架——股票爬虫
 - python+mysql爬取猫眼top100
+- github登录
+- 广东省高考大学热度爬虫
+- 专业热度爬虫
 
 
 详细过程参考个人博客——[梦独吟](https://www.datealive.top/)
