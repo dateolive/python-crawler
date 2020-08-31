@@ -1,4 +1,3 @@
-# python-
 # python爬虫实战项目-
 
 本仓库记录零基础学习python爬虫日记
