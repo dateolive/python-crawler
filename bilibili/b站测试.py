@@ -46,7 +46,7 @@ class CrackTouClick():
         login_btn.click()
 
     def pick_code(self):
-        time.sleep(1)
+        time.sleep(3)
         pick_img_label = self.browser.find_element_by_css_selector('img.geetest_item_img')  # 获取点触图片标签
         src = pick_img_label.get_attribute('src')  # 获取点触图片链接
         img_content = requests.get(src).content  # 获取图片二进制内容
