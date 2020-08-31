@@ -19,6 +19,7 @@
 - github登录
 - 广东省高考大学热度爬虫
 - 专业热度爬虫
+- bilibili点触验证码模拟登录
 
 
 详细过程参考个人博客——[梦独吟](https://www.datealive.top/)
