@@ -39,7 +39,7 @@ git clone https://github.com/dateolive/python-crawler.git
 ## 目录
 
 - ip地址归属地的查询
-- re库的贪婪匹配和最小匹配
+- re库的贪婪匹配和最小匹配 
 - 百度360搜索关键字
 - 爬取网页通用代码框架
 - 提取html页面所有url链接
@@ -71,9 +71,14 @@ git clone https://github.com/dateolive/python-crawler.git
 ***不定期分享爬虫学习案例 :kissing_heart:***
 
 
+
+
+<br />
+<br />
+
 ## 补充
 
-项目持续更新，欢迎您[star本项目][5] :star:
+项目持续更新，欢迎您 :star: 本项目 
 
 本项目欢迎 PR
 
